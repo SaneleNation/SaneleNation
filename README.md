@@ -1,6 +1,7 @@
 # Hi there, I'm Sanele Zwane! 👋
 
-Aspiring Full-Stack Developer from South Africa 🇿🇦
+Aspiring Full-Stack Developer
+
 I am transitioning to software development through continuous learning and hands-on projects.
 
 My goal is to become a Full-Stack Developer and contribute to impactful and innovative software solutions.
